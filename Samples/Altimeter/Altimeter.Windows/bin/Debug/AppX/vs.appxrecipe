@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>T-WELOW-SP4</Machine>
+    <WindowsUser>t-welow</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c03ebf1a-2dcc-40e3-9140-ec15b2f5c222</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Microsoft</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\t-welow\Downloads\Microsoft Band SDK and Samples for Windows\Samples\Altimeter\Altimeter.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>209698C83AD99F7D17CAB8868007621C59F91949717A8F03D50770B073B8F5F4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c03ebf1a-2dcc-40e3-9140-ec15b2f5c222_1.0.0.0_neutral__ph1m9x8skttmg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c03ebf1a-2dcc-40e3-9140-ec15b2f5c222_ph1m9x8skttmg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c03ebf1a-2dcc-40e3-9140-ec15b2f5c222</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Microsoft</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\t-welow\Downloads\Microsoft Band SDK and Samples for Windows\Samples\Altimeter\Altimeter.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-18T02:30:37.425</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\t-welow\Downloads\Microsoft Band SDK and Samples for Windows\Samples\Altimeter\Altimeter.Windows\bin\Debug\Altimeter.Windows.exe">
+      <PackagePath>Altimeter.Windows.exe</PackagePath>
+      <Modified>2016-07-18T02:30:36.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t-welow\Downloads\Microsoft Band SDK and Samples for Windows\Samples\packages\Microsoft.Band.1.3.20420\lib\netcore451\Microsoft.Band.dll">
+      <PackagePath>Microsoft.Band.dll</PackagePath>
+      <Modified>2016-04-21T20:59:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t-welow\Downloads\Microsoft Band SDK and Samples for Windows\Samples\packages\Microsoft.Band.1.3.20420\lib\netcore451\Microsoft.Band.Store.dll">
+      <PackagePath>Microsoft.Band.Store.dll</PackagePath>
+      <Modified>2016-04-21T20:59:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t-welow\Downloads\Microsoft Band SDK and Samples for Windows\Samples\packages\Microsoft.Band.1.3.20420\lib\netcore451\Microsoft.Band.Windows.dll">
+      <PackagePath>Microsoft.Band.Windows.dll</PackagePath>
+      <Modified>2016-04-21T20:59:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t-welow\Downloads\Microsoft Band SDK and Samples for Windows\Samples\packages\Microsoft.Band.1.3.20420\lib\netcore451\Google.Protobuf.dll">
+      <PackagePath>Google.Protobuf.dll</PackagePath>
+      <Modified>2016-04-21T20:59:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t-welow\Downloads\Microsoft Band SDK and Samples for Windows\Samples\Altimeter\Altimeter.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-15T22:23:07.096</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t-welow\Downloads\Microsoft Band SDK and Samples for Windows\Samples\Altimeter\Altimeter.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-15T22:23:07.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t-welow\Downloads\Microsoft Band SDK and Samples for Windows\Samples\Altimeter\Altimeter.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-15T22:23:07.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t-welow\Downloads\Microsoft Band SDK and Samples for Windows\Samples\Altimeter\Altimeter.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-15T22:23:07.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t-welow\Downloads\Microsoft Band SDK and Samples for Windows\Samples\Altimeter\Altimeter.Windows\bin\Debug\Altimeter.Windows.xr.xml">
+      <PackagePath>Altimeter.Windows.xr.xml</PackagePath>
+      <Modified>2016-07-18T02:30:35.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t-welow\Downloads\Microsoft Band SDK and Samples for Windows\Samples\Altimeter\Altimeter.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-07-18T02:30:35.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t-welow\Downloads\Microsoft Band SDK and Samples for Windows\Samples\Altimeter\Altimeter.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-07-18T02:30:35.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t-welow\Downloads\Microsoft Band SDK and Samples for Windows\Samples\Altimeter\Altimeter.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-07-18T02:30:36.843</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
