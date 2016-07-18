@@ -1,8 +1,0 @@
-<XamlCompilerSaveState>
-  <ReferenceAssemblyList>
-    <LocalAssembly PathName="c:\users\t-welow\downloads\microsoft band sdk and samples for windows\samples\gsr\gsr.windows\obj\debug\intermediatexaml\gsr.windows.exe" HashGuid="7784df5e-0f69-f205-0799-bb0fbbd91843" />
-    <ReferenceAssembly PathName="c:\users\t-welow\downloads\microsoft band sdk and samples for windows\samples\packages\microsoft.band.1.3.20420\lib\netcore451\microsoft.band.dll" HashGuid="54721cfb-7e4b-6d4e-56b7-f414314f5ff4" />
-    <ReferenceAssembly PathName="c:\users\t-welow\downloads\microsoft band sdk and samples for windows\samples\packages\microsoft.band.1.3.20420\lib\netcore451\microsoft.band.store.dll" HashGuid="98480add-ab1a-3512-8e3a-2f4238137152" />
-    <ReferenceAssembly PathName="c:\users\t-welow\downloads\microsoft band sdk and samples for windows\samples\packages\microsoft.band.1.3.20420\lib\netcore451\microsoft.band.windows.dll" HashGuid="79ae9f4c-ef7b-3fdd-30ad-c33314996da8" />
-  </ReferenceAssemblyList>
-</XamlCompilerSaveState>

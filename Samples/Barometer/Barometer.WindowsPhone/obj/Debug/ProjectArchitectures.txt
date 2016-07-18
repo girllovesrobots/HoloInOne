@@ -1,1 +1,0 @@
-C:\Users\t-welow\Downloads\Microsoft Band SDK and Samples for Windows\Samples\Barometer\Barometer.WindowsPhone\Barometer.WindowsPhone.csproj;neutral
