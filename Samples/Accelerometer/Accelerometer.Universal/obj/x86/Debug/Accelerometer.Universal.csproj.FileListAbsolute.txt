@@ -393,3 +393,4 @@ C:\Users\t-welow\Documents\GitHub\HoloInOne\Samples\Accelerometer\Accelerometer.
 C:\Users\t-welow\Documents\GitHub\HoloInOne\Samples\Accelerometer\Accelerometer.Universal\obj\x86\Debug\Microsoft.Band.Phone_UAP.pri.xml
 C:\Users\t-welow\Documents\GitHub\HoloInOne\Samples\Accelerometer\Accelerometer.Universal\obj\x86\Debug\Microsoft.Band.Store_UAP.pri.xml
 C:\Users\t-welow\Documents\GitHub\HoloInOne\Samples\Accelerometer\Accelerometer.Universal\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\t-welow\Documents\GitHub\HoloInOne\Samples\Accelerometer\Accelerometer.Universal\obj\x86\Debug\Accelerometer.Universal.csprojResolveAssemblyReference.cache
