@@ -1,0 +1,1 @@
+C:\Users\t-welow\Documents\GitHub\HoloInOne\Samples\Accelerometer\Accelerometer.Universal\Accelerometer.Universal.csproj;arm
