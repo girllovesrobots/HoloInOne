@@ -1,0 +1,16 @@
+C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\bin\x86\Master\Assembly-CSharp-firstpass.dll
+C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\bin\x86\Master\Assembly-CSharp-firstpass.pdb
+C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\bin\x86\Master\Assembly-CSharp-firstpass.pri
+C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\Assembly-CSharp-firstpass.dll
+C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\Assembly-CSharp-firstpass.pdb
+C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\priconfig.xml
+C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\priconfig.xml.intermediate
+C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\layout.resfiles
+C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\layout.resfiles.intermediate
+C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\resources.resfiles
+C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\resources.resfiles.intermediate
+C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\pri.resfiles
+C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\pri.resfiles.intermediate
+C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\qualifiers.txt
+C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\qualifiers.txt.intermediate
+C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\MultipleQualifiersPerDimensionFound.txt
