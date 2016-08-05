@@ -2,7 +2,8 @@ Go to Assets > Double Click Level1, open up in Unity
 Go to File > Build Settings > (reference the picture) and save in a folder (named VSBuild)
 Go to VSBuild, double click Holo In one. Since Unity does not support compilation of Windows specific APIs, we worked around by doing if real app....
 
-We want these to be on when we upload the app to the HoloLens, so go to Assembly-CSharp, Properties (reference in picture)
+We want these to be on when we upload the app to the HoloLens, so go to Assembly-CSharp, Properties (reference in picture), and add REAL_APP; to the build settings
+
 ---
 **Requires Microsoft Band to play
 
