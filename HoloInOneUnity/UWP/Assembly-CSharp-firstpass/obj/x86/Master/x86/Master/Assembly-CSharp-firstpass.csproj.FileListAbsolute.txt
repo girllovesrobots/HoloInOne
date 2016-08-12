@@ -1,6 +1,7 @@
 C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\bin\x86\Master\Assembly-CSharp-firstpass.dll
 C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\bin\x86\Master\Assembly-CSharp-firstpass.pdb
 C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\bin\x86\Master\Assembly-CSharp-firstpass.pri
+C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
 C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\Assembly-CSharp-firstpass.dll
 C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\Assembly-CSharp-firstpass.pdb
 C:\Users\t-welow\Documents\GitHub\HoloInOne\HoloInOneUnity\UWP\Assembly-CSharp-firstpass\obj\x86\Master\x86\Master\priconfig.xml
